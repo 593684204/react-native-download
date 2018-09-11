@@ -1,0 +1,18 @@
+
+{
+  "name": "react-native-appdownload",
+  "version": "1.0.0",
+  "description": "参考https://github.com/zengDeveloper/ReactNative_AndroidDownload实现android，iOS的版本更新",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "qiaozhaoin",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.50.4"
+  }
+}
