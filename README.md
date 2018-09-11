@@ -33,6 +33,6 @@
 import RNDownload from 'react-native-download';
 
 // TODO: What to do with the module?
-RNDownload;
+RNDownload.downLoad('apkurl','apkdescription');
 ```
   
